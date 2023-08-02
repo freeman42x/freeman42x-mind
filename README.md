@@ -2,4 +2,4 @@
 
 Use case:
 
-not having to explain to people all the time why what I am doing leads to the actual goal(s).
+Not having to explain to people all the time why what I am doing leads to the actual goal(s).
