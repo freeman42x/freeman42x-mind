@@ -11,36 +11,90 @@ open import Utils
 data WhatDoesItLookLikeIAmDoing : Set where
 
 data Task : Set where
-  FixLightBulb
-    FixShelf
-    FixSqueakyDrawer
-    GetNewCanOfWhoopAss
-    FixCar
-    GetNewLightBulb : Task
 
-fixLightBulb : Task -> Task
-fixLightBulb task = {!   !}
+
+
+flipLightSwitch : Task -> WhatDoesItLookLikeIAmDoing
+flipLightSwitch = {!   !}
+
+replaceLightBulb : Task -> Task
+replaceLightBulb = {!   !}
+
+takeNewLightBulbFromTopOfShelf : Task -> Task
+takeNewLightBulbFromTopOfShelf = {!   !}
 
 fixShelf : Task -> Task
-fixShelf task = {!   !}
+fixShelf = {!   !}
+
+getScrewdriver : Task -> Task
+getScrewdriver = {!   !}
 
 fixSqueakyDrawer : Task -> Task
-fixSqueakyDrawer task = {!   !}
+fixSqueakyDrawer = {!   !}
 
-getNewCanOfWhoopAss : Task -> Task
-getNewCanOfWhoopAss task = {!   !}
+getCanForDeSqueaking : Task -> Task
+getCanForDeSqueaking = {!   !}
+
+buyNewCanForDeSqueaking : Task -> Task
+buyNewCanForDeSqueaking = {!   !}
+
+driveCarToHardwareStore : Task -> Task
+driveCarToHardwareStore = {!   !}
 
 fixCar : Task -> Task
-fixCar task = {!   !}
+fixCar = {!   !}
 
-getNewLightBulb : Task -> WhatDoesItLookLikeIAmDoing
-getNewLightBulb task = {!   !}
-
-fixLightSwitch : Task -> WhatDoesItLookLikeIAmDoing
-fixLightSwitch =
-  getNewLightBulb
-    ∘ fixCar
-    ∘ getNewCanOfWhoopAss
-    ∘ fixSqueakyDrawer
+turnLightOn : Task -> WhatDoesItLookLikeIAmDoing
+turnLightOn =
+  flipLightSwitch
+    ∘ replaceLightBulb
+    ∘ takeNewLightBulbFromTopOfShelf
     ∘ fixShelf
-    ∘ fixLightBulb
+    ∘ getScrewdriver
+    ∘ fixSqueakyDrawer
+    ∘ getCanForDeSqueaking
+    ∘ buyNewCanForDeSqueaking
+    ∘ driveCarToHardwareStore
+    ∘ fixCar
+
+
+-- data Task : Set where
+--   FixLightSwitch
+--     FixShelf
+--     FixSqueakyDrawer
+--     GetNewCanOfWhoopAss
+--     FixCar
+--     GetNewLightBulb : Task
+
+-- data Test = replaceLightBulb
+--           | FixShelf
+
+-- data Task = replaceLightBulb
+--           | FixShelf
+--           | FixSqueakyDrawer
+--           | GetNewCanOfWhoopAss
+--           | FixCar
+--           | GetNewLightBulb Task
+--           deriving Show
+
+-- data Result = TaskCompleted Task
+--             | WhatDoesItLookLikeIAmDoing
+--             deriving Show
+
+-- replaceLightBulb :: Task -> Result
+-- replaceLightBulb replaceLightBulb = TaskCompleted FixShelf
+-- replaceLightBulb _ = WhatDoesItLookLikeIAmDoing
+
+-- fixShelf :: Task -> Result
+-- fixShelf FixShelf = TaskCompleted FixSqueakyDrawer
+-- fixShelf _ = WhatDoesItLookLikeIAmDoing
+
+-- -- Similarly define other functions
+
+-- fixLightSwitch :: Task -> Result
+-- fixLightSwitch task =
+--   replaceLightBulb task >>= \case
+--     TaskCompleted nextTask -> fixShelf nextTask >>= \case
+--       TaskCompleted nextTask' -> fixSqueakyDrawer nextTask' -- And so on
+--       _ -> WhatDoesItLookLikeIAmDoing
+--     _ -> WhatDoesItLookLikeIAmDoing
