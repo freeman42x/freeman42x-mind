@@ -1,16 +1,33 @@
 project Iron Man - Jarvis but make it a Smart, Cute and Funny Fox Girl AI Assistant
-	add Agda to twitch chat
-		Agda local git project
-		Haskell project template GitHub project
-			gitignore
-			editorconfig
-			markdownlint
-			changelog
-			license
-			contributing
-			readme
-			.cabal
-			shell.nix - should provide full environment including editor support
-		Twitch account for Agda
-		sending messages to my channel programmatically via Agda bot
-		reading message from chat and reply only when required. for example when a question is being asked
+	output
+		Twitch chat
+			Twitch account for Agda
+			sending messages to my channel programmatically via Agda bot
+			reading message from chat and reply only when required. for example when a question is being asked
+		vtuber
+			Agda local git project
+			Haskell project template GitHub project
+				gitignore
+				editorconfig
+				markdownlint
+				changelog
+				license
+				contributing
+				readme
+				.cabal
+				shell.nix - should provide full environment including editor support
+		control
+			physical screens with
+				body movements
+				eyes
+				voice
+			control holograms
+	input - sensors - evidence sources
+		leap motion
+		VR hand controllers
+		multiple cameras
+	model
+		create own ethical LLM that performs slightly better than GPT 4
+			RSI open source simplest model that has good performance and IO timings
+			halting problem
+			ethics - formalize?
