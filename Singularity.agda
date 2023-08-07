@@ -7,4 +7,15 @@
 
 open import Utils
 
--- TODO
+data TaskOrGoal : Set where
+  task : Task -> TaskOrGoal
+  goal : Goal -> TaskOrGoal
+
+projectIronMan : [TaskOrGoal] -> Goal
+projectIronMan = ?
+
+{-
+
+
+
+-}
