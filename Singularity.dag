@@ -12,6 +12,9 @@
 			cleaning robot
 				research easiest/cheapest methods
 			⏳Twitch
+				⏳audio
+				฿ Agda in other room for phonic isolation
+				฿ join Twitch space and reply to 
 				⏳chat - reply to questions while meeting ethics and NSFW constraints
 					Twitch account for Agda
 					sending messages to my channel programmatically via Agda bot
@@ -29,7 +32,7 @@
 						.cabal
 						shell.nix - should provide full environment including editor support
 		⚙ model - decision making
-			✅ gpt 3.5 equivalent
+			✅ gpt 3.5 equivalent - with cute fox girl prompting
 			create ethical LLM that performs slightly better than GPT 4
 				prompt it with key formal ideas about intelligence I refined over the years
 					manual - upload from my mind to it
