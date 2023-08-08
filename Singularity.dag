@@ -1,39 +1,41 @@
 ⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
 	⚙ Priority Queue
-		⏳ Twitch chat
-		⏳ Twitch vtuber
+		⚙ Twitch
+		    🛠️ Twitter Spaces
+				Agda in other room for phonic isolation
+				join Twitch space
+			1️⃣ chat
+			2️⃣ VTuber
 	⚙ Goal expansion
 		⚙ output
 			✅ speakers
-			monitors
-			holograms
-			programable robots for consumers/research
-			NSFW ( ͡° ͜ʖ ͡°)
-			cleaning robot
-				research easiest/cheapest methods
-			⏳Twitch
-				⏳audio
-				฿ Agda in other room for phonic isolation
-				฿ join Twitch space and reply to 
-				⏳chat - reply to questions while meeting ethics and NSFW constraints
-					Twitch account for Agda
+			🕒 Twitter Spaces
+			📈 monitors
+			📈 holograms
+			📈 programable robots for consumers/research
+			📈 NSFW ( ͡° ͜ʖ ͡°)
+			📈 cleaning robot
+			📈 Twitch
+				📈 chat - reply to questions while meeting ethics and NSFW constraints
 					sending messages to my channel programmatically via Agda bot
 					reading message from chat and reply only when required. for example when a question is being asked
-				{1} VTuber - just model and TTS voice sync for now
-					Agda local git project
-					Haskell project template GitHub project
-						gitignore
-						editorconfig
-						markdownlint
-						changelog
-						license
-						contributing
-						readme
-						.cabal
-						shell.nix - should provide full environment including editor support
+				📈 VTuber
+					show model
+					TTS voice sync
+						Agda local git project
+						Haskell project template GitHub project
+							gitignore
+							editorconfig
+							markdownlint
+							changelog
+							license
+							contributing
+							readme
+							.cabal
+							shell.nix - should provide full environment including editor support
 		⚙ model - decision making
 			✅ gpt 3.5 equivalent - with cute fox girl prompting
-			create ethical LLM that performs slightly better than GPT 4
+			📈 create ethical LLM that performs slightly better than GPT 4
 				prompt it with key formal ideas about intelligence I refined over the years
 					manual - upload from my mind to it
 					automatic
@@ -44,14 +46,13 @@
 					ethics
 						halting problem - have to avoid it accidentally running in a dangerous never ending compute
 					formalize intelligence -> ethics - this is intuitive for most people but formalizing it would help
-			open source LLM model that has good performance and IO timings
-		⚙ input
+			📈 open source LLM model that has good performance and IO timings
+		⚙ input - evidence sources
 			✅ voice control
-				✅desktop
-				mobile
+				✅ desktop
+				📈 mobile
 					iOS mobile
 					android
-			sensors - evidence sources
-				cameras - cheap and available easily
-				leap motion
-				VR hand controllers
+			📈 cameras - cheap and available easily
+			📈 leap motion
+			📈 VR hand controllers
