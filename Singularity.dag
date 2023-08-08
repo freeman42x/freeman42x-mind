@@ -1,11 +1,30 @@
 ⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
 	⚙ Priority Queue
-		⚙ Twitch
-		    🛠️ Twitter Spaces
-				Agda in other room for phonic isolation
-				join Twitch space
-			1️⃣ chat
-			2️⃣ VTuber
+		⚙ Twitter Spaces
+			💻 Agda twitter account - new or use old one
+				✅ avatar
+				✅ banner
+				✅ name
+				✅ username
+				✅ bio
+				✅ location
+				🔜 website
+				🔜 date of birth
+			🔜 Agda in other room for phonic isolation
+			🔜 join Twitch space
+		🔜 Haskell project template GitHub project
+				gitignore
+				editorconfig
+				markdownlint
+				changelog
+				license
+				contributing
+				readme
+				.cabal
+				shell.nix - should provide full environment including editor support
+		🔜 Agda local git project
+		🔜 chat
+		🔜 VTuber
 	⚙ Goal expansion
 		⚙ output
 			✅ speakers
@@ -16,23 +35,12 @@
 			📈 NSFW ( ͡° ͜ʖ ͡°)
 			📈 cleaning robot
 			📈 Twitch
-				📈 chat - reply to questions while meeting ethics and NSFW constraints
-					sending messages to my channel programmatically via Agda bot
-					reading message from chat and reply only when required. for example when a question is being asked
-				📈 VTuber
+			📈 chat - reply to questions while meeting ethics and NSFW constraints
+				sending messages to my channel programmatically via Agda bot
+				reading message from chat and reply only when required. for example when a question is being asked
+			📈 VTuber
 					show model
 					TTS voice sync
-						Agda local git project
-						Haskell project template GitHub project
-							gitignore
-							editorconfig
-							markdownlint
-							changelog
-							license
-							contributing
-							readme
-							.cabal
-							shell.nix - should provide full environment including editor support
 		⚙ model - decision making
 			✅ gpt 3.5 equivalent - with cute fox girl prompting
 			📈 create ethical LLM that performs slightly better than GPT 4
@@ -48,11 +56,12 @@
 					formalize intelligence -> ethics - this is intuitive for most people but formalizing it would help
 			📈 open source LLM model that has good performance and IO timings
 		⚙ input - evidence sources
-			✅ voice control
+			✅ microphone - voice control
 				✅ desktop
 				📈 mobile
 					iOS mobile
 					android
+			🕒 Twitter Spaces
 			📈 cameras - cheap and available easily
 			📈 leap motion
 			📈 VR hand controllers
