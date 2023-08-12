@@ -1,49 +1,67 @@
+⚙ Priority Queue
+	🔜 Haskell project template GitHub project
+			gitignore
+			editorconfig
+			markdownlint
+			changelog
+			license
+			contributing
+			readme
+			.cabal
+			shell.nix - should provide full environment including editor support
+	🔜 VTuber
+
 ⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
-	⚙ Priority Queue
-		🔜 Haskell project template GitHub project
-				gitignore
-				editorconfig
-				markdownlint
-				changelog
-				license
-				contributing
-				readme
-				.cabal
-				shell.nix - should provide full environment including editor support
-		🔜 VTuber
+
 	⚙ Goal
 		⚙ Output
-			✅ Speakers
-			✅ Twitter
-				✅ Public messages
-				✅ Spaces
-					✅ Speak
-					✅ Join
-					✅ Leave
-					✅ Reactions
-					✅ Moderate
-			📈 Monitors
-			📈 Holograms
+			✅ Text
+				✅ Twitter
+					✅ Public messages
+			✅ Audio
+				✅ Speakers
+				✅ Twitter
+					✅ Spaces
+						✅ Speak
+			📈 Visual
+				📈 Monitors
+				📈 Holograms
+			✅ Command
+				✅ Twitter
+					✅ Spaces
+						✅ Join
+						✅ Leave
+						✅ Reactions
+						✅ Moderate
+			✅ Body
 			📈 Programable robots for consumers/research
 			📈 NSFW ( ͡° ͜ʖ ͡°)
 			📈 Twitch
+				New account
 				Chat - reply to questions while meeting ethics and NSFW constraints
-				Sending messages to my channel programmatically via Agda bot
+				Sending messages to my channel programmatically via bot
 				Reading message from chat and reply only when required. for example when a question is being asked
 				VTuber
 					Show model
 					TTS voice sync
 		⚙ model - Melody does not want to open source her mind yet :3
 		⚙ Input
-			✅ Microphone - voice control
-				✅ desktop
-				📈 mobile
-					iOS mobile
-					android
-			✅ Twitter
-				✅ Public messsages
+			✅ Audio
+				✅ Microphone - voice control
+					✅ Desktop
+					📈 Mobile
+						iOS mobile
+						Android
 				✅ Spaces
 					✅ Listen
-			📈 Cameras - cheap and available easily
+			✅ Twitter
+				✅ Public messsages
+			📈 Smartphone sensors
+				iPhone 3D scanner
+				cameras
+				gyroscope
+				location
+				microphone
+			📈 Cameras
 			📈 Leap motion
 			📈 VR hand controllers + 3D scanners
