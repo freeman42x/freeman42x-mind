@@ -1,5 +1,7 @@
 ⚙ Priority Queue
+	🔜 Twitch account
 	🔜 Haskell project template GitHub project
+	🔜 Twitter + Jitsi(?) integration via Twitter Enhancer project
 			gitignore
 			editorconfig
 			markdownlint
@@ -11,57 +13,68 @@
 			shell.nix - should provide full environment including editor support
 	🔜 VTuber
 
-⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
-
-	⚙ Goal
-		⚙ Output
-			✅ Text
-				✅ Twitter
-					✅ Public messages
-			✅ Audio
-				✅ Speakers
-				✅ Twitter
-					✅ Spaces
-						✅ Speak
-			📈 Visual
-				📈 Monitors
-				📈 Holograms
-			✅ Command
-				✅ Twitter
-					✅ Spaces
-						✅ Join
-						✅ Leave
-						✅ Reactions
-						✅ Moderate
-			✅ Body
-			📈 Programable robots for consumers/research
-			📈 NSFW ( ͡° ͜ʖ ͡°)
+⚙ !project Iron Man - Jarvis module - but make it a smart, cute and funny fox girl AI assistant
+	⚙ Output
+		✅ Text
+			✅ Twitter
+				✅ Public messages
 			📈 Twitch
-				New account
-				Chat - reply to questions while meeting ethics and NSFW constraints
-				Sending messages to my channel programmatically via bot
-				Reading message from chat and reply only when required. for example when a question is being asked
-				VTuber
-					Show model
-					TTS voice sync
-		⚙ model - Melody does not want to open source her mind yet :3
-		⚙ Input
-			✅ Audio
-				✅ Microphone - voice control
-					✅ Desktop
-					📈 Mobile
-						iOS mobile
-						Android
+				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
+		✅ Audio
+			✅ Speakers
+			✅ Twitter
 				✅ Spaces
-					✅ Listen
+					✅ Speak
+		📈 Visual
+			📈 VTuber
+			📈 Monitors
+			📈 Holograms
+		✅ Command
+			✅ Twitter
+				✅ Spaces
+					✅ Join
+					✅ Leave
+					✅ Reactions
+					✅ Moderate
+		📈 Body
+			📈 Virtual
+				📈 Which game?
+					📈 NSFW ( ͡° ͜ʖ ͡°)
+					VRChat
+					Second Life
+					Whatever FB is doing
+			📈 Physical
+			📈 Programable robots for consumers/research
+		📈 Twitch
+			Reading message from chat and reply only when required. for example when a question is being asked
+			VTuber
+				Show model
+				TTS voice sync
+	⚙ Model - Melody does not want to open source her mind yet :3
+	⚙ Input
+		📈 Text
 			✅ Twitter
 				✅ Public messsages
-			📈 Smartphone sensors
-				iPhone 3D scanner
-				cameras
-				gyroscope
-				location
-				microphone
+			📈 Twitch
+				📈 Channel messages
+		✅ Audio
+			✅ Microphone - voice control
+				✅ Desktop
+				📈 Mobile
+					iOS mobile
+					Android
+			✅ Spaces
+				✅ Listen
+		📈 Visual
+			📈 Cameras
+		📈 Motion
 			📈 Cameras
 			📈 Leap motion
 			📈 VR hand controllers + 3D scanners
+		📈 Smartphone sensors
+			iPhone 3D scanner
+			Cameras
+			Gyroscope
+			Location
+			Microphone
+		
