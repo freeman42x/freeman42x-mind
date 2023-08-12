@@ -1,17 +1,7 @@
 ⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
 	⚙ Priority Queue
 		⚙ Twitter Spaces
-			💻 Agda twitter account - new or use old one
-				✅ avatar
-				✅ banner
-				✅ name
-				✅ username
-				✅ bio
-				✅ location
-				🔜 website
-				🔜 date of birth
 			🔜 Agda in other room for phonic isolation
-			🔜 join Twitch space
 		🔜 Haskell project template GitHub project
 				gitignore
 				editorconfig
@@ -25,43 +15,47 @@
 		🔜 Agda local git project
 		🔜 chat
 		🔜 VTuber
+	⚙ Done
+		✅ Twitter account
+			✅ avatar
+			✅ banner
+			✅ name
+			✅ username
+			✅ bio
+			✅ location
 	⚙ Goal expansion
 		⚙ output
 			✅ speakers
-			🕒 Twitter Spaces
+			✅ Twitter
+				✅ Public messages
+				✅ Spaces
+					✅ Speak
+					✅ Join
+					✅ Leave
+					✅ Reactions
+					✅ Moderate
 			📈 monitors
 			📈 holograms
 			📈 programable robots for consumers/research
 			📈 NSFW ( ͡° ͜ʖ ͡°)
-			📈 cleaning robot
 			📈 Twitch
-			📈 chat - reply to questions while meeting ethics and NSFW constraints
+				chat - reply to questions while meeting ethics and NSFW constraints
 				sending messages to my channel programmatically via Agda bot
 				reading message from chat and reply only when required. for example when a question is being asked
-			📈 VTuber
+				VTuber
 					show model
 					TTS voice sync
-		⚙ model - decision making
-			✅ gpt 3.5 equivalent - with cute fox girl prompting
-			📈 create ethical LLM that performs slightly better than GPT 4
-				prompt it with key formal ideas about intelligence I refined over the years
-					manual - upload from my mind to it
-					automatic
-						mindmaps
-						github projects
-				[formalization of key concepts around goal achievement](https://github.com/freeman42x/formalize-all-the-things)
-					intelligence
-					ethics
-						halting problem - have to avoid it accidentally running in a dangerous never ending compute
-					formalize intelligence -> ethics - this is intuitive for most people but formalizing it would help
-			📈 open source LLM model that has good performance and IO timings
-		⚙ input - evidence sources
+		⚙ model - Melody does not want to open source her mind yet :3
+		⚙ input
 			✅ microphone - voice control
 				✅ desktop
 				📈 mobile
 					iOS mobile
 					android
-			🕒 Twitter Spaces
+			✅ Twitter
+				✅ Public messsages
+				✅ Spaces
+					✅ Listen
 			📈 cameras - cheap and available easily
 			📈 leap motion
 			📈 VR hand controllers
