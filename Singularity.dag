@@ -1,7 +1,5 @@
 ⚙ !project Iron Man - Jarvis module - but make it a Smart, Cute and Funny Fox Girl AI Assistant
 	⚙ Priority Queue
-		⚙ Twitter Spaces
-			🔜 Agda in other room for phonic isolation
 		🔜 Haskell project template GitHub project
 				gitignore
 				editorconfig
@@ -12,20 +10,10 @@
 				readme
 				.cabal
 				shell.nix - should provide full environment including editor support
-		🔜 Agda local git project
-		🔜 chat
 		🔜 VTuber
-	⚙ Done
-		✅ Twitter account
-			✅ avatar
-			✅ banner
-			✅ name
-			✅ username
-			✅ bio
-			✅ location
-	⚙ Goal expansion
-		⚙ output
-			✅ speakers
+	⚙ Goal
+		⚙ Output
+			✅ Speakers
 			✅ Twitter
 				✅ Public messages
 				✅ Spaces
@@ -34,20 +22,20 @@
 					✅ Leave
 					✅ Reactions
 					✅ Moderate
-			📈 monitors
-			📈 holograms
-			📈 programable robots for consumers/research
+			📈 Monitors
+			📈 Holograms
+			📈 Programable robots for consumers/research
 			📈 NSFW ( ͡° ͜ʖ ͡°)
 			📈 Twitch
-				chat - reply to questions while meeting ethics and NSFW constraints
-				sending messages to my channel programmatically via Agda bot
-				reading message from chat and reply only when required. for example when a question is being asked
+				Chat - reply to questions while meeting ethics and NSFW constraints
+				Sending messages to my channel programmatically via Agda bot
+				Reading message from chat and reply only when required. for example when a question is being asked
 				VTuber
-					show model
+					Show model
 					TTS voice sync
 		⚙ model - Melody does not want to open source her mind yet :3
-		⚙ input
-			✅ microphone - voice control
+		⚙ Input
+			✅ Microphone - voice control
 				✅ desktop
 				📈 mobile
 					iOS mobile
@@ -56,6 +44,6 @@
 				✅ Public messsages
 				✅ Spaces
 					✅ Listen
-			📈 cameras - cheap and available easily
-			📈 leap motion
-			📈 VR hand controllers
+			📈 Cameras - cheap and available easily
+			📈 Leap motion
+			📈 VR hand controllers + 3D scanners
