@@ -15,27 +15,6 @@
 
 ⚙ !project Iron Man - Jarvis module - but make it a smart, cute and funny fox girl AI assistant
 	⚙ Output
-		✅ Text
-			✅ Twitter
-				✅ Public messages
-			📈 Twitch
-				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
-		✅ Audio
-			✅ Speakers
-			✅ Twitter
-				✅ Spaces
-					✅ Speak
-		📈 Visual
-			📈 VTuber
-			📈 Monitors
-			📈 Holograms
-		✅ Command
-			✅ Twitter
-				✅ Spaces
-					✅ Join
-					✅ Leave
-					✅ Reactions
-					✅ Moderate
 		📈 Body
 			📈 Virtual
 				📈 Which game?
@@ -44,15 +23,38 @@
 					Second Life
 					Whatever FB is doing
 			📈 Physical
-			📈 Programable robots for consumers/research
+				📈 Programable robots for consumers/research
+				📈 Manufacture
+		📈 Visual
+			📈 VTuber
+			📈 Monitors
+			📈 Holograms
+		✅ Audio
+			✅ Speakers
+			✅ Twitter
+				✅ Spaces
+					✅ Speak
+		✅ Text
+			✅ Twitter
+				✅ Public messages
+			📈 Twitch
+				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
+		✅ Command
+			✅ Twitter
+				✅ Spaces
+					✅ Join
+					✅ Leave
+					✅ Reactions
+					✅ Moderate
+
 		📈 Twitch
 			Reading message from chat and reply only when required. for example when a question is being asked
 			VTuber
 				Show model
 				TTS voice sync
-	⚙ Model - Melody does not want to open source her mind yet :3
+	⚙ Model - Melody is shy and does not want to open source her mind yet :3
 	⚙ Input
-		📈 Text
+		✅ Text
 			✅ Twitter
 				✅ Public messsages
 			📈 Twitch
@@ -77,4 +79,3 @@
 			Gyroscope
 			Location
 			Microphone
-		
