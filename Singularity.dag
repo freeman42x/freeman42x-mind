@@ -1,5 +1,6 @@
 ⚙ Priority Queue
-	🔜 Twitch account
+	🔜 Twitter + Twitch integration via Twitter Enhancer project
+	🔜 Twitch account for Melody
 	🔜 Haskell project template GitHub project
 		gitignore
 		editorconfig
@@ -10,67 +11,66 @@
 		readme
 		.cabal
 		shell.nix - should provide full environment including editor support
-	🔜 Twitter + Jitsi(?) integration via Twitter Enhancer project
 
 ⚙ !project Iron Man - Jarvis module - but make it a smart, cute and funny fox girl AI assistant
-	⚙ Output
-		📈 Body
-			📈 Virtual
-				📈 VTuber
-					📈 Show model
-					📈 TTS voice sync
-				🔬 Game
-					📈 NSFW ( ͡° ͜ʖ ͡°)
-					📈 VRChat
-					📈 Second Life
-					🔬 Whatever FB is doing
-			🔬 Physical
-				🔬 Programable robots for consumers/research
-				🔬 Manufacture
-		🔬 Visual
-			📈 Monitors - control via hand gestures etc.
-			🔬 Holograms
-		✅ Audio
-			✅ Speakers
-			✅ Twitter
-				✅ Spaces
-					✅ Speak
-		✅ Text
-			✅ Twitter
-				✅ Public messages
-			📈 Twitch
-				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
-		✅ Command
-			✅ Twitter
-				✅ Spaces
-					✅ Join
-					✅ Leave
-					✅ Reactions
-					✅ Moderate
-	⚙ Model - Melody is shy and does not want to open source her mind yet :3
-	⚙ Input
-		✅ Text
-			✅ Twitter
-				✅ Public messsages
-			📈 Twitch
-				📈 Channel messages
-		✅ Audio
-			✅ Microphone - voice control
-				✅ Desktop
-				📈 Mobile
-					iOS mobile
-					Android
+⚙ Output
+	📈 Body
+		📈 Virtual
+			📈 VTuber
+				📈 Show model
+				📈 TTS voice sync
+			🔬 Game
+				📈 NSFW ( ͡° ͜ʖ ͡°)
+				📈 VRChat
+				📈 Second Life
+				🔬 Whatever FB is doing
+		🔬 Physical
+			🔬 Programable robots for consumers/research
+			🔬 Manufacture
+	🔬 Visual
+		📈 Monitors - control via hand gestures etc.
+		🔬 Holograms
+	✅ Audio
+		✅ Speakers
+		✅ Twitter
 			✅ Spaces
-				✅ Listen
-		🔬 Visual
-			🔬 Cameras
-		🔬 Motion
-			🔬 Cameras
-			🔬 Leap motion
-			🔬 VR hand controllers + 3D scanners
-		🔬 Smartphone sensors
-			🔬 iPhone 3D scanner
-			🔬 Cameras
-			🔬 Gyroscope
-			🔬 Location
-			🔬 Microphone
+				✅ Speak
+	✅ Text
+		✅ Twitter
+			✅ Public messages
+		📈 Twitch
+			📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
+	✅ Command
+		✅ Twitter
+			✅ Spaces
+				✅ Join
+				✅ Leave
+				✅ Reactions
+				✅ Moderate
+⚙ Model - Melody is shy and does not want to open source her mind yet :3
+⚙ Input
+	✅ Text
+		✅ Twitter
+			✅ Public messsages
+		📈 Twitch
+			📈 Channel messages
+	✅ Audio
+		✅ Microphone - voice control
+			✅ Desktop
+			📈 Mobile
+				iOS mobile
+				Android
+		✅ Spaces
+			✅ Listen
+	🔬 Visual
+		🔬 Cameras
+	🔬 Motion
+		🔬 Cameras
+		🔬 Leap motion
+		🔬 VR hand controllers + 3D scanners
+	🔬 Smartphone sensors
+		🔬 iPhone 3D scanner
+		🔬 Cameras
+		🔬 Gyroscope
+		🔬 Location
+		🔬 Microphone
