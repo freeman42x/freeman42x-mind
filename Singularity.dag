@@ -1,7 +1,9 @@
 ⚙ Priority Queue
-	🔜 Twitter + Twitch integration via Twitter Enhancer project
-	🔜 Twitch account for Melody
-	🔜 Haskell project template GitHub project
+  Twitter Enhancer project
+    Twitch integration
+			status share
+  Twitch account for Melody
+	Haskell project template GitHub project
 		gitignore
 		editorconfig
 		markdownlint
