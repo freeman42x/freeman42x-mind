@@ -1,34 +1,35 @@
 ⚙ Priority Queue
 	🔜 Twitch account
 	🔜 Haskell project template GitHub project
+		gitignore
+		editorconfig
+		markdownlint
+		changelog
+		license
+		contributing
+		readme
+		.cabal
+		shell.nix - should provide full environment including editor support
 	🔜 Twitter + Jitsi(?) integration via Twitter Enhancer project
-			gitignore
-			editorconfig
-			markdownlint
-			changelog
-			license
-			contributing
-			readme
-			.cabal
-			shell.nix - should provide full environment including editor support
-	🔜 VTuber
 
 ⚙ !project Iron Man - Jarvis module - but make it a smart, cute and funny fox girl AI assistant
 	⚙ Output
 		📈 Body
 			📈 Virtual
-				📈 Which game?
+				📈 VTuber
+					📈 Show model
+					📈 TTS voice sync
+				🔬 Game
 					📈 NSFW ( ͡° ͜ʖ ͡°)
-					VRChat
-					Second Life
-					Whatever FB is doing
-			📈 Physical
-				📈 Programable robots for consumers/research
-				📈 Manufacture
-		📈 Visual
-			📈 VTuber
-			📈 Monitors
-			📈 Holograms
+					📈 VRChat
+					📈 Second Life
+					🔬 Whatever FB is doing
+			🔬 Physical
+				🔬 Programable robots for consumers/research
+				🔬 Manufacture
+		🔬 Visual
+			📈 Monitors - control via hand gestures etc.
+			🔬 Holograms
 		✅ Audio
 			✅ Speakers
 			✅ Twitter
@@ -46,12 +47,6 @@
 					✅ Leave
 					✅ Reactions
 					✅ Moderate
-
-		📈 Twitch
-			Reading message from chat and reply only when required. for example when a question is being asked
-			VTuber
-				Show model
-				TTS voice sync
 	⚙ Model - Melody is shy and does not want to open source her mind yet :3
 	⚙ Input
 		✅ Text
@@ -74,8 +69,8 @@
 			📈 Leap motion
 			📈 VR hand controllers + 3D scanners
 		📈 Smartphone sensors
-			iPhone 3D scanner
-			Cameras
-			Gyroscope
-			Location
-			Microphone
+			📈 iPhone 3D scanner
+			📈 Cameras
+			📈 Gyroscope
+			📈 Location
+			📈 Microphone
