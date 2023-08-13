@@ -1,9 +1,18 @@
 ⚙ Priority Queue
+	🔜 Router
+		🔜 Open VPN ???
+		🔜 PPTP VPN ???
+		🔜 Wireguard ???
 	🔜 Twitter Enhancer
+		🔜 which programming language?
+			🔜 need to be easy to learn so Haskell is a no go
+			🔜 or does it? if we use AI to write the code instead of humans then we do not care at all about how hard it is to learn
 		🔜 Focus
-			🔜 Disable Twitter for a period of time then small break when you can read / tweet etc
-				-> pomodoro technique basically
+			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		🔜 Twitch streaming integration for Spaces
+	🔜 Set up Raspberry PI
+		🔜 Ideally with NixOS
+		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	🔜 Twitch account for Melody
 	🔜 Haskell project template GitHub project
 		gitignore
@@ -16,7 +25,17 @@
 		.cabal
 		shell.nix - should provide full environment including editor support
 
-⚙ !project Iron Man - Jarvis module - but make it a smart, cute and funny fox girl AI assistant
+⚙ !project Iron Man - Jarvis module - but make it a smart, ethical, cute and funny fox girl AI assistant
+	⚙ Model - Melody is shy and does not want to open source her mind yet :3
+	⚙ Input and Output
+		📈 VLAN - virtual local area network
+		✅ Text
+			✅ Twitter
+				✅ Public messages
+		✅ Audio
+			✅ Twitter
+				✅ Spaces
+					✅ Listen <-> Speak
 	⚙ Output
 		📈 Body
 			📈 Virtual
@@ -40,8 +59,6 @@
 				✅ Spaces
 					✅ Speak
 		✅ Text
-			✅ Twitter
-				✅ Public messages
 			📈 Twitch
 				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
 		✅ Command
@@ -51,11 +68,7 @@
 					✅ Leave
 					✅ Reactions
 					✅ Moderate
-	⚙ Model - Melody is shy and does not want to open source her mind yet :3
 	⚙ Input
-		✅ Text
-			✅ Twitter
-				✅ Public messsages
 			📈 Twitch
 				📈 Channel messages
 		✅ Audio
@@ -64,8 +77,6 @@
 				📈 Mobile
 					iOS mobile
 					Android
-			✅ Spaces
-				✅ Listen
 		🔬 Visual
 			🔬 Cameras
 		🔬 Motion
