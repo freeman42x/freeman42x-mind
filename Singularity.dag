@@ -1,9 +1,11 @@
 ⚙ Priority Queue
-  Twitter Enhancer project
-    Twitch integration
-			status share
-  Twitch account for Melody
-	Haskell project template GitHub project
+	🔜 Twitter Enhancer
+		🔜 Focus
+			🔜 Disable Twitter for a period of time then small break when you can read / tweet etc
+				-> pomodoro technique basically
+		🔜 Twitch streaming integration for Spaces
+	🔜 Twitch account for Melody
+	🔜 Haskell project template GitHub project
 		gitignore
 		editorconfig
 		markdownlint
