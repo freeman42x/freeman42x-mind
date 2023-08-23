@@ -18,7 +18,7 @@
 	🔜 Haskell project template GitHub project
 		gitignore
 		editorconfig
-		markdownlint
+		markdownlint	
 		changelog
 		license
 		contributing
@@ -59,7 +59,11 @@
 			✅ Twitter
 				✅ Spaces
 					✅ Speak
+			✅ Spaces
+				✅ Listen
 		✅ Text
+			✅ Twitter
+				✅ Public messages
 			📈 Twitch
 				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
 		✅ Command
