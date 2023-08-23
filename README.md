@@ -1,4 +1,4 @@
-# Functional dependency of my tasks using Agda code
+# Functional dependency of my tasks using .dag file format
 
 Use case:
 
