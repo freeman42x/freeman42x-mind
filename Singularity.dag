@@ -1,19 +1,20 @@
 ⚙ Priority Queue
+	🔜 Most important project
+	🔜 Fact Checking
+	🔜 Evidence
 	🔜 Universal Translator
-	🔜 Funding
 	🔜 Value delivery focused spaces
 	🔜 Identity - Login standard
+	🔜 Twitter Enhancer
+		🔜 Fact Checking
+		🔜 Focus
+			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
+		🔜 Twitch streaming integration for Spaces
+	🔜 Funding
 	🔜 Windows / NixOS dualboot PC2
 		🔜 Windows partitions
 		🔜 Install Windows 11
 		🔜 Set up dualboot
-	🔜 Twitter Enhancer
-		🔜 which programming language?
-			🔜 need to be easy to learn so Haskell is a no go
-			🔜 or does it? if we use AI to write the code instead of humans then we do not care at all about how hard it is to learn
-		🔜 Focus
-			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
-		🔜 Twitch streaming integration for Spaces
 	🔜 Set up Raspberry PI
 		🔜 Ideally with NixOS
 		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
@@ -29,7 +30,12 @@
 		.cabal
 		shell.nix - should provide full environment including editor support
 
-⚙ !project Iron Man - Jarvis module - but make it a smart, ethical, cute and funny fox girl AI assistant
+⚙ Good Future
+	⚙ Good Singularity
+		⚙ Ethical AGI Society
+		⚙ Enhance Human Productivity
+
+⚙ Project Iron Man - Jarvis module - but make it a smart, ethical, cute and funny fox girl AI assistant girlfriend
 	⚙ Model - Melody is shy and does not want to open source her mind yet :3
 	⚙ Input and Output
 		📈 VLAN - virtual local area network
