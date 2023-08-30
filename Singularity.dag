@@ -1,22 +1,25 @@
 ⚙ Priority Queue
+	🔜 Funding
+	🔜 Universal Translator
+	🔜 Update socials
+		🔜 Linktr.ee
+		🔜 LinkedIn
+	🔜 Windows / NixOS dualboot PC2
+		🔜 Windows partitions
+		🔜 Install Windows 11
+		🔜 Set up dualboot
+	🔜 Package any type of project with Nix
 	🔜 Primitive task prioritization engine and use it on these tasks
-	🔜 WizardLM
 	🔜 GPT Engineer
 	🔜 Nix distributed single file deployment
 		🔜 NixOPS
 		🔜 others
-	🔜 X Subscription Support
-	🔜 Update socials
-		🔜 Linktr.ee
-		🔜 LinkedIn
 	🔜 Tablet NixOS Touch Enable
 	🔜 Boot up Romanian X Spaces
-	🔜 Most important project
 	🔜 Fact Checking
 		🔜 Jassim bin Hamad bin Khalifa Al Thani
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	🔜 Evidence
-	🔜 Universal Translator
 	🔜 Value delivery focused spaces
 	🔜 Identity - Login standard
 	🔜 Twitter Enhancer
@@ -24,11 +27,6 @@
 		🔜 Focus
 			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		🔜 Twitch streaming integration for Spaces
-	🔜 Funding
-	🔜 Windows / NixOS dualboot PC2
-		🔜 Windows partitions
-		🔜 Install Windows 11
-		🔜 Set up dualboot
 	🔜 Set up Raspberry PI
 		🔜 Ideally with NixOS
 		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
