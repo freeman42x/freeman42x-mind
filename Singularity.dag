@@ -1,22 +1,26 @@
 ⚙ Priority Queue
-	🔜 Windows + Gaming
-		🔜 GPU passthrough
-		🔜 Windows / NixOS dualboot PC2
-			🔜 Windows partitions
-			🔜 Install Windows 11
-			🔜 Set up dualboot
-		🔜 NixOS gaming account
-	🔜 VTuber camera
-	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
-	🔜 Primitive task prioritization engine and use it on these tasks
-		🔜 run prioritization automatically or on key shortcut
+	🔜 Mesh VPN
+		🔜 Tailscale - closed source - set up for testing and learning features
+		🔜 Headscale - open source - long term solution
 	🔜 Nix distributed single file deployment
 		🔜 NixOPS
 		🔜 others
 	🔜 Set up Raspberry PI
 		🔜 Ideally with NixOS
 		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	🔜 Extend screens using XRDP
+	🔜 Windows / NixOS dualboot PC2
+		🔜 Windows partitions
+		🔜 Install Windows 11
+		🔜 Set up dualboot
+	🔜 Windows + Gaming
+		🔜 GPU passthrough
+		🔜 NixOS gaming account
+	🔜 VTuber camera
+	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
+	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
+	🔜 Primitive task prioritization engine and use it on these tasks
+		🔜 run prioritization automatically or on key shortcut
 	🔜 GPT Engineer
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
