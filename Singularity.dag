@@ -1,4 +1,11 @@
 ⚙ Priority Queue
+	🔜 Windows + Gaming
+		🔜 GPU passthrough
+		🔜 Windows / NixOS dualboot PC2
+			🔜 Windows partitions
+			🔜 Install Windows 11
+			🔜 Set up dualboot
+		🔜 NixOS gaming account
 	🔜 VTuber camera
 	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
 	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
@@ -10,13 +17,6 @@
 	🔜 Set up Raspberry PI
 		🔜 Ideally with NixOS
 		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	🔜 Windows + Gaming
-		🔜 GPU passthrough
-		🔜 Windows / NixOS dualboot PC2
-			🔜 Windows partitions
-			🔜 Install Windows 11
-			🔜 Set up dualboot
-		🔜 NixOS gaming account
 	🔜 GPT Engineer
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
