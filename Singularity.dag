@@ -1,27 +1,32 @@
 ⚙ Priority Queue
-	🔜 Universal Translator pitch
-	🔜 Universal Translator
-	🔜 Funding
-	🔜 Fully automated trade investing software
-	🔜 Update socials
-		🔜 Linktr.ee
-		🔜 LinkedIn
-	🔜 Windows / NixOS dualboot PC2
-		🔜 Windows partitions
-		🔜 Install Windows 11
-		🔜 Set up dualboot
-	🔜 Package any type of project with Nix
+	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	🔜 Primitive task prioritization engine and use it on these tasks
-	🔜 GPT Engineer
+		🔜 run prioritization automatically or on key shortcut
 	🔜 Nix distributed single file deployment
 		🔜 NixOPS
 		🔜 others
-	🔜 Tablet NixOS Touch Enable
-	🔜 Boot up Romanian X Spaces
-	🔜 Fact Checking
+	🔜 Set up Raspberry PI
+		🔜 Ideally with NixOS
+		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	🔜 Windows + Gaming
+		🔜 GPU passthrough
+		🔜 Windows / NixOS dualboot PC2
+			🔜 Windows partitions
+			🔜 Install Windows 11
+			🔜 Set up dualboot
+		🔜 NixOS gaming account
+	🔜 GPT Engineer
+	🔜 Universal Translator
+	🔜 Universal Translator pitch
+	🔜 Funding
+	🔜 Evidence / Fact Checking module(s)
 		🔜 Jassim bin Hamad bin Khalifa Al Thani
+	🔜 Package any type of project with Nix
+		🔜 [dream2nix](https://github.com/nix-community/dream2nix)
+	🔜 Fully automated trade investing software
+	🔜 Tablet NixOS Touch Enable
+
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
-	🔜 Evidence
 	🔜 Value delivery focused spaces
 	🔜 Identity - Login standard
 	🔜 Twitter Enhancer
@@ -29,10 +34,10 @@
 		🔜 Focus
 			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		🔜 Twitch streaming integration for Spaces
-	🔜 Set up Raspberry PI
-		🔜 Ideally with NixOS
-		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	🔜 Twitch account for Melody
+	🔜 Boot up Romanian X Spaces
+
+🤔 Maybe never
 	🔜 Haskell project template GitHub project
 		gitignore
 		editorconfig
