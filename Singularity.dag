@@ -1,9 +1,4 @@
 ⚙ Priority Queue
-	🔜 [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
-	🔜 Windows / NixOS dualboot PC2
-		🔜 Windows partitions
-		🔜 Install Windows 11
-		🔜 Set up dualboot
 	🔜 Nix distributed single file deployment
 		🔜 NixOPS
 		🔜 others
@@ -15,10 +10,9 @@
 		🔜 GPU passthrough
 		🔜 NixOS gaming account
 	🔜 VTuber camera
-	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	🔜 Primitive task prioritization engine and use it on these tasks
 		🔜 run prioritization automatically or on key shortcut
+		🔜 build the dependency tree/plan leading to the goal
 	🔜 GPT Engineer
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
@@ -30,6 +24,17 @@
 	🔜 Fully automated trade investing software
 	🔜 Tablet NixOS Touch Enable
 
+🔬 Fun zone
+	🔜 Android emulator on NixOS
+		🔜 Anbox - requires custom Linux kernel modules
+		🔜 [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
+			🔜 [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
+	🔜 Windows / NixOS dualboot PC2
+		🔜 Windows partitions
+		🔜 Install Windows 11
+		🔜 Set up dualboot
+	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
+	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	🔜 Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	🔜 Value delivery focused spaces
@@ -42,7 +47,11 @@
 	🔜 Twitch account for Melody
 
 ✅ Done
-	✅ Mesh VPN - Tailscale - closed source - set up for testing and learning features
+	✅ [Deno](https://deno.com/)
+	✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
+		✅ [OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
+	✅ Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
+	✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 
 🤔 Maybe never
 	🔜 Haskell project template GitHub project
