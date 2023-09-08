@@ -1,5 +1,5 @@
 ⚙ Priority Queue
-	🔜 Mesh VPN - Tailscale - closed source - set up for testing and learning features
+	🔜 [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 	🔜 Windows / NixOS dualboot PC2
 		🔜 Windows partitions
 		🔜 Install Windows 11
@@ -40,6 +40,9 @@
 			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		🔜 Twitch streaming integration for Spaces
 	🔜 Twitch account for Melody
+
+✅ Done
+	✅ Mesh VPN - Tailscale - closed source - set up for testing and learning features
 
 🤔 Maybe never
 	🔜 Haskell project template GitHub project
