@@ -1,38 +1,31 @@
 ⚙ Priority Queue
-	🔜 Nix distributed single file deployment
-		🔜 NixOPS
-		🔜 others
-	🔜 Set up Raspberry PI
-		🔜 Ideally with NixOS
-		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	🔜 Extend screens using XRDP
-	🔜 Windows + Gaming
-		🔜 GPU passthrough
-		🔜 NixOS gaming account
-	🔜 VTuber camera
-	🔜 Primitive task prioritization engine and use it on these tasks
-		🔜 run prioritization automatically or on key shortcut
-		🔜 build the dependency tree/plan leading to the goal
-	🔜 GPT Engineer
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
 	🔜 Funding
 	🔜 Evidence / Fact Checking module(s)
 		🔜 Jassim bin Hamad bin Khalifa Al Thani
-	🔜 Package any type of project with Nix
-		🔜 [dream2nix](https://github.com/nix-community/dream2nix)
 	🔜 Fully automated trade investing software
-	🔜 Tablet NixOS Touch Enable
 
 🔬 Fun zone
-	🔜 Android emulator on NixOS
-		🔜 Anbox - requires custom Linux kernel modules
-		🔜 [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
-			🔜 [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
+	🔜 Tablet NixOS Touch Enable
+	🔜 Package any type of project with Nix
+		🔜 [dream2nix](https://github.com/nix-community/dream2nix)
+	🔜 Extend screens using XRDP
+	🔜 Windows + Gaming
+		🔜 GPU passthrough
+		🔜 NixOS gaming account
+	🔜 VTuber camera
 	🔜 Windows / NixOS dualboot PC2
 		🔜 Windows partitions
 		🔜 Install Windows 11
 		🔜 Set up dualboot
+	🔜 Android emulator on NixOS
+		🔜 Anbox - requires custom Linux kernel modules
+		🔜 [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
+			🔜 [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
+	🔜 Nix distributed single file deployment
+		🔜 NixOPS
+		🔜 others
 	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
 	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	🔜 Mesh VPN - Headscale - open source - long term solution
