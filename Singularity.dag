@@ -1,7 +1,9 @@
 ⚙ Priority Queue
-	🔜 Mesh VPN
-		🔜 Tailscale - closed source - set up for testing and learning features
-		🔜 Headscale - open source - long term solution
+	🔜 Mesh VPN - Tailscale - closed source - set up for testing and learning features
+	🔜 Windows / NixOS dualboot PC2
+		🔜 Windows partitions
+		🔜 Install Windows 11
+		🔜 Set up dualboot
 	🔜 Nix distributed single file deployment
 		🔜 NixOPS
 		🔜 others
@@ -9,10 +11,6 @@
 		🔜 Ideally with NixOS
 		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	🔜 Extend screens using XRDP
-	🔜 Windows / NixOS dualboot PC2
-		🔜 Windows partitions
-		🔜 Install Windows 11
-		🔜 Set up dualboot
 	🔜 Windows + Gaming
 		🔜 GPU passthrough
 		🔜 NixOS gaming account
@@ -32,6 +30,7 @@
 	🔜 Fully automated trade investing software
 	🔜 Tablet NixOS Touch Enable
 
+	🔜 Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	🔜 Value delivery focused spaces
 	🔜 Identity - Login standard
@@ -41,7 +40,6 @@
 			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		🔜 Twitch streaming integration for Spaces
 	🔜 Twitch account for Melody
-	🔜 Boot up Romanian X Spaces
 
 🤔 Maybe never
 	🔜 Haskell project template GitHub project
@@ -54,6 +52,7 @@
 		readme
 		.cabal
 		shell.nix - should provide full environment including editor support
+	🔜 Boot up Romanian X Spaces
 
 ⚙ Good Future
 	⚙ Good Singularity
