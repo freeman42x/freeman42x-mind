@@ -1,23 +1,27 @@
 ⚙ Priority Queue
-	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+	* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
 	* [Dream2Nix](https://github.com/nix-community/dream2nix)
-	* [LangChain.js](https://github.com/langchain-ai/langchainjs)
-	https://github.com/Atome-FE/llama-node
-	* [vLLM](https://github.com/vllm-project/vllm)
-	* [LLaMA Node](https://github.com/Atome-FE/llama-node)
-	* [Coqui TTS](https://github.com/coqui-ai/TTS)
-	* [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
-	* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-	* primitive task prioritization engine and use it on these tasks
-		* run prioritization automatically or on key shortcut
-		* build the dependency tree/plan leading to the goal
-		* prioritize but also expand, rewrite, generate, remove
+	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+	* Fast LLM
+		* [LangChain.js](https://github.com/langchain-ai/langchainjs)
+		https://github.com/Atome-FE/llama-node
+		* [vLLM](https://github.com/vllm-project/vllm)
+		* [LLaMA Node](https://github.com/Atome-FE/llama-node)
+	* Speech
+		* [Coqui TTS](https://github.com/coqui-ai/TTS)
+		* [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
+	* Project generation
+		* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 	* Universal Translator
 	* Universal Translator pitch
 	* Funding
+	* Fully automated trade investing software
+	* Primitive task prioritization engine and use it on these tasks
+		* run prioritization automatically or on key shortcut
+		* build the dependency tree/plan leading to the goal
+		* prioritize but also expand, rewrite, generate, remove
 	* Evidence / Fact Checking module(s)
 		* Jassim bin Hamad bin Khalifa Al Thani
-	* Fully automated trade investing software
 
 🔬 Fun zone
 	* Tablet NixOS Touch Enable
