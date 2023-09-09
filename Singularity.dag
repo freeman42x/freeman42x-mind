@@ -1,5 +1,9 @@
 ⚙ Priority Queue
 	🔜 GPT Engineer
+  * primitive task prioritization engine and use it on these tasks
+    * run prioritization automatically or on key shortcut
+    * build the dependency tree/plan leading to the goal
+    * prioritize but also expand, rewrite, generate, remove
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
 	🔜 Funding
@@ -28,7 +32,8 @@
 		🔜 [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
 			🔜 [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
 	🔜 Nix distributed single file deployment
-		🔜 NixOPS
+		🔜 [NixOPS](https://github.com/NixOS/nixops)
+		🔜 [nix-deploy](https://github.com/awakesecurity/nix-deploy)
 		🔜 others
 	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
 	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
