@@ -1,52 +1,60 @@
 ⚙ Priority Queue
-	🔜 GPT Engineer
-	🔜 primitive task prioritization engine and use it on these tasks
-		🔜 run prioritization automatically or on key shortcut
-		🔜 build the dependency tree/plan leading to the goal
-		🔜 prioritize but also expand, rewrite, generate, remove
-	🔜 Universal Translator
-	🔜 Universal Translator pitch
-	🔜 Funding
-	🔜 Evidence / Fact Checking module(s)
-		🔜 Jassim bin Hamad bin Khalifa Al Thani
-	🔜 Fully automated trade investing software
+	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+	* [Dream2Nix](https://github.com/nix-community/dream2nix)
+	* [LangChain.js](https://github.com/langchain-ai/langchainjs)
+	https://github.com/Atome-FE/llama-node
+	* [vLLM](https://github.com/vllm-project/vllm)
+	* [LLaMA Node](https://github.com/Atome-FE/llama-node)
+	* [Coqui TTS](https://github.com/coqui-ai/TTS)
+	* [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
+	* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+	* primitive task prioritization engine and use it on these tasks
+		* run prioritization automatically or on key shortcut
+		* build the dependency tree/plan leading to the goal
+		* prioritize but also expand, rewrite, generate, remove
+	* Universal Translator
+	* Universal Translator pitch
+	* Funding
+	* Evidence / Fact Checking module(s)
+		* Jassim bin Hamad bin Khalifa Al Thani
+	* Fully automated trade investing software
 
 🔬 Fun zone
-	🔜 Tablet NixOS Touch Enable
-	🔜 Set up Raspberry PI
-		🔜 Ideally with NixOS
-		🔜 Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	🔜 Package any type of project with Nix
-		🔜 [dream2nix](https://github.com/nix-community/dream2nix)
-	🔜 Extend screens using XRDP
-	🔜 Windows + Gaming
-		🔜 GPU passthrough
-		🔜 NixOS gaming account
-	🔜 VTuber camera
-	🔜 Windows / NixOS dualboot PC2
-		🔜 Windows partitions
-		🔜 Install Windows 11
-		🔜 Set up dualboot
-	🔜 Android emulator on NixOS
-		🔜 Anbox - requires custom Linux kernel modules
-		🔜 [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
-			🔜 [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
-	🔜 Nix distributed single file deployment
-		🔜 [NixOPS](https://github.com/NixOS/nixops)
-		🔜 [nix-deploy](https://github.com/awakesecurity/nix-deploy)
-		🔜 others
-	🔜 Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-	🔜 [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
-	🔜 Mesh VPN - Headscale - open source - long term solution
+	* Tablet NixOS Touch Enable
+	* Set up Raspberry PI
+		* Ideally with NixOS
+		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* Package any type of project with Nix
+		* [dream2nix](https://github.com/nix-community/dream2nix)
+	* Extend screens using XRDP
+	* Windows + Gaming
+		* GPU passthrough
+		* NixOS gaming account
+	* VTuber camera
+	* Windows / NixOS dualboot PC2
+		* Windows partitions
+		* Install Windows 11
+		* Set up dualboot
+	* Android emulator on NixOS
+		* Anbox - requires custom Linux kernel modules
+		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
+			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
+	* Nix distributed single file deployment
+		* [NixOPS](https://github.com/NixOS/nixops)
+		* [nix-deploy](https://github.com/awakesecurity/nix-deploy)
+		* others
+	* Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
+	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
+	* Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
-	🔜 Value delivery focused spaces
-	🔜 Identity - Login standard
-	🔜 Twitter Enhancer
-		🔜 Fact Checking
-		🔜 Focus
-			🔜 Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
-		🔜 Twitch streaming integration for Spaces
-	🔜 Twitch account for Melody
+	* Value delivery focused spaces
+	* Identity - Login standard
+	* Twitter Enhancer
+		* Fact Checking
+		* Focus
+			* Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
+		* Twitch streaming integration for Spaces
+	* Twitch account for Melody
 
 ✅ Done
 	✅ [Deno](https://deno.com/)
@@ -56,7 +64,7 @@
 	✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 
 🤔 Maybe never
-	🔜 Haskell project template GitHub project
+	* Haskell project template GitHub project
 		gitignore
 		editorconfig
 		markdownlint	
@@ -66,7 +74,7 @@
 		readme
 		.cabal
 		shell.nix - should provide full environment including editor support
-	🔜 Boot up Romanian X Spaces
+	* Boot up Romanian X Spaces
 
 ⚙ Good Future
 	⚙ Good Singularity
