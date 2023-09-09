@@ -1,9 +1,9 @@
 ⚙ Priority Queue
 	🔜 GPT Engineer
-  * primitive task prioritization engine and use it on these tasks
-    * run prioritization automatically or on key shortcut
-    * build the dependency tree/plan leading to the goal
-    * prioritize but also expand, rewrite, generate, remove
+	🔜 primitive task prioritization engine and use it on these tasks
+		🔜 run prioritization automatically or on key shortcut
+		🔜 build the dependency tree/plan leading to the goal
+		🔜 prioritize but also expand, rewrite, generate, remove
 	🔜 Universal Translator
 	🔜 Universal Translator pitch
 	🔜 Funding
