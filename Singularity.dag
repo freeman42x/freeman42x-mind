@@ -1,5 +1,8 @@
 ⚙ Priority Queue
-	* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
+	* Caching
+		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
+	* CI
+		* [Hydra](https://github.com/NixOS/hydra) can do caching also
 	* [Dream2Nix](https://github.com/nix-community/dream2nix)
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 	* Fast LLM
