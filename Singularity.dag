@@ -1,8 +1,10 @@
 ⚙ Priority Queue
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
-		* PR for shell.nix
-		* Test few features
+		✅ Test few features
+		* Translator plugin
+		* Try more themes
+		* PR for shell.nix + [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) mention
 	* Caching
 		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
 	* Continuous Integration
