@@ -1,4 +1,7 @@
 ⚙ Priority Queue
+	* Set up Raspberry PI - ideally with NixOS
+	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* File Sharing like Dropbox - Open Source
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
 		✅ Test few features
@@ -9,7 +12,8 @@
 		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
 	* Continuous Integration
 		* [Hydra](https://github.com/NixOS/hydra) can do caching also
-	* [Dream2Nix](https://github.com/nix-community/dream2nix)
+	* Package any type of project with Nix
+		* [Dream2Nix](https://github.com/nix-community/dream2nix)
 	* Fast LLM
 		* [LangChain.js](https://github.com/langchain-ai/langchainjs)
 		https://github.com/Atome-FE/llama-node
@@ -33,11 +37,6 @@
 
 🔬 Fun zone
 	* Tablet NixOS Touch Enable
-	* Set up Raspberry PI
-		* Ideally with NixOS
-		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	* Package any type of project with Nix
-		* [dream2nix](https://github.com/nix-community/dream2nix)
 	* Extend screens using XRDP
 	* Windows + Gaming
 		* GPU passthrough
@@ -71,7 +70,7 @@
 ✅ Done
 	✅ [Deno](https://deno.com/)
 	✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
-		✅ [OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
+	✅ [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
 	✅ Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
 	✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 
