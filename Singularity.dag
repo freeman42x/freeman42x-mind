@@ -1,10 +1,13 @@
 ⚙ Priority Queue
+	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+		✅ Install with nix
+		* PR for shell.nix
+		* Test few features
 	* Caching
 		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
-	* CI
+	* Continuous Integration
 		* [Hydra](https://github.com/NixOS/hydra) can do caching also
 	* [Dream2Nix](https://github.com/nix-community/dream2nix)
-	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 	* Fast LLM
 		* [LangChain.js](https://github.com/langchain-ai/langchainjs)
 		https://github.com/Atome-FE/llama-node
