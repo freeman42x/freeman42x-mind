@@ -1,4 +1,8 @@
 ⚙ Priority Queue
+	* Windows / NixOS dualboot PC2
+		* Windows partitions
+		* Install Windows 11
+		* Set up dualboot
 	* Set up Raspberry PI - ideally with NixOS
 	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	* File Sharing like Dropbox - Open Source
@@ -47,10 +51,6 @@
 		* GPU passthrough
 		* NixOS gaming account
 	* VTuber camera
-	* Windows / NixOS dualboot PC2
-		* Windows partitions
-		* Install Windows 11
-		* Set up dualboot
 	* Android emulator on NixOS
 		* Anbox - requires custom Linux kernel modules
 		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
