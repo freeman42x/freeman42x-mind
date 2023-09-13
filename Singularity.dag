@@ -37,6 +37,11 @@
 
 🔬 Fun zone
 	* Tablet NixOS Touch Enable
+	* Set up Raspberry PI
+		* Ideally with [NixOS](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi_4)
+		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* Package any type of project with Nix
+		* [dream2nix](https://github.com/nix-community/dream2nix)
 	* Extend screens using XRDP
 	* Windows + Gaming
 		* GPU passthrough
