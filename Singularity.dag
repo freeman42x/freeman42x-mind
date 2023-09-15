@@ -1,4 +1,6 @@
 ⚙ Priority Queue
+	* [Element alternatives](https://matrix.org/ecosystem/clients/)
+	* Wayland
 	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	* Remote Control
 	* Caching
@@ -9,7 +11,6 @@
 		* Install Windows 11
 		* Set up dualboot
 	* Set up Raspberry PI - ideally with NixOS
-	* [Element alternatives](https://matrix.org/ecosystem/clients/)
 	* File Sharing like Dropbox - Open Source
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
