@@ -1,23 +1,57 @@
 ⚙ Priority Queue
+	* Primitive task prioritization engine and use it on these tasks
+		* run prioritization automatically or on key shortcut
+		* build the dependency tree/plan leading to the goal
+		* prioritize but also expand, rewrite, generate, remove
 	* [Element alternatives](https://matrix.org/ecosystem/clients/)
-	* Wayland
-	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	* Remote Control
-	* Caching
-		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
-		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
-	* Windows / NixOS dualboot PC2
-		* Windows partitions
-		* Install Windows 11
-		* Set up dualboot
-	* Set up Raspberry PI - ideally with NixOS
-	* File Sharing like Dropbox - Open Source
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
 		✅ Test few features
 		* Translator plugin
 		* Try more themes
 		* PR for shell.nix + [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) mention
+	* Caching
+		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
+		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
+	* Package any type of project with Nix
+		* [dream2nix](https://github.com/nix-community/dream2nix)
+	* Wayland
+	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* Extend screens using XRDP
+	* Remote Control
+	* Tablet NixOS Touch Enable
+	* VTuber camera
+	* Android emulator on NixOS
+		* Anbox - requires custom Linux kernel modules
+		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
+			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
+	* Nix distributed single file deployment
+		* [NixOPS](https://github.com/NixOS/nixops)
+		* [nix-deploy](https://github.com/awakesecurity/nix-deploy)
+		* others
+	* Windows + Gaming
+		* GPU passthrough
+		* NixOS gaming account
+	* open source - translation library or program - LLMs can fulfill this task and even correct mistakes
+	* research [Grammatical Framework](https://www.grammaticalframework.org/)
+		* [Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl) is the standard library for Grammatical Framework. It covers the morphology and basic syntax of over 30 languages
+		* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia)
+	* open source - LLM that runs very fast
+		* try
+			* [LangChain.js](https://github.com/langchain-ai/langchainjs)
+			* [vLLM](https://github.com/vllm-project/vllm)
+		* [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
+		* WizardLM 7B Uncensored
+			* with Serge - big delay before it outputs the result
+			* with llama.cpp ~1 second delay
+	* Windows / NixOS dualboot PC2
+		* Windows partitions
+		* Install Windows 11
+		* Set up dualboot
+	* Set up Raspberry PI
+		* Ideally with [NixOS](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi_4)
+		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* File Sharing like Dropbox - Open Source
 	* Package any type of project with Nix
 		* [Dream2Nix](https://github.com/nix-community/dream2nix)
 	* Fast LLM
@@ -34,35 +68,10 @@
 		* [Video Translate](https://labs.heygen.com/video-translate) from HeyGen Labs
 	* Universal Translator
 	* Universal Translator pitch
-	* Funding
 	* Fully automated trade investing software
-	* Primitive task prioritization engine and use it on these tasks
-		* run prioritization automatically or on key shortcut
-		* build the dependency tree/plan leading to the goal
-		* prioritize but also expand, rewrite, generate, remove
-	* Evidence / Fact Checking module(s)
-		* Jassim bin Hamad bin Khalifa Al Thani
+	* Evidence / Fact Checking AI module(s)
 
 🔬 Fun zone
-	* Tablet NixOS Touch Enable
-	* Set up Raspberry PI
-		* Ideally with [NixOS](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi_4)
-		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
-	* Package any type of project with Nix
-		* [dream2nix](https://github.com/nix-community/dream2nix)
-	* Extend screens using XRDP
-	* Windows + Gaming
-		* GPU passthrough
-		* NixOS gaming account
-	* VTuber camera
-	* Android emulator on NixOS
-		* Anbox - requires custom Linux kernel modules
-		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
-			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
-	* Nix distributed single file deployment
-		* [NixOPS](https://github.com/NixOS/nixops)
-		* [nix-deploy](https://github.com/awakesecurity/nix-deploy)
-		* others
 	* Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* Mesh VPN - Headscale - open source - long term solution
