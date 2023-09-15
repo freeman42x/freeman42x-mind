@@ -12,8 +12,8 @@
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
 		✅ Test few features
-		* Translator plugin
-		* Try more themes
+		✅ Translator plugin
+		✅ Try more themes
 		* PR for shell.nix + [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) mention
 	* GPU passthrough
 		* [A GPU Passthrough Setup for NixOS (with VR passthrough too!)](https://astrid.tech/2022/09/22/0/nixos-gpu-vfio/)
