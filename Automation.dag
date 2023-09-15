@@ -1,4 +1,9 @@
 ⚙ Priority Queue
+	* Merge all Nix configs into main one
+	* Nix distributed single file deployment
+		* [NixOPS](https://github.com/NixOS/nixops)
+		* [nix-deploy](https://github.com/awakesecurity/nix-deploy)
+		* others
 	* Primitive task prioritization engine and use it on these tasks
 		* run prioritization automatically or on key shortcut
 		* build the dependency tree/plan leading to the goal
@@ -25,10 +30,6 @@
 		* Anbox - requires custom Linux kernel modules
 		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
 			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
-	* Nix distributed single file deployment
-		* [NixOPS](https://github.com/NixOS/nixops)
-		* [nix-deploy](https://github.com/awakesecurity/nix-deploy)
-		* others
 	* Windows + Gaming
 		* GPU passthrough
 		* NixOS gaming account
