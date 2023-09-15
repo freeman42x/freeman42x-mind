@@ -1,11 +1,15 @@
 ⚙ Priority Queue
+	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
+	* Remote Control
+	* Caching
+		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
+		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
 	* Windows / NixOS dualboot PC2
 		* Windows partitions
 		* Install Windows 11
 		* Set up dualboot
 	* Set up Raspberry PI - ideally with NixOS
 	* [Element alternatives](https://matrix.org/ecosystem/clients/)
-	* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	* File Sharing like Dropbox - Open Source
 	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
@@ -13,10 +17,6 @@
 		* Translator plugin
 		* Try more themes
 		* PR for shell.nix + [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) mention
-	* Caching
-		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
-	* Continuous Integration
-		* [Hydra](https://github.com/NixOS/hydra) can do caching also
 	* Package any type of project with Nix
 		* [Dream2Nix](https://github.com/nix-community/dream2nix)
 	* Fast LLM
