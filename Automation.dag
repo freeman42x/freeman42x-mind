@@ -15,6 +15,14 @@
 		* Translator plugin
 		* Try more themes
 		* PR for shell.nix + [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) mention
+	* GPU passthrough
+		* [A GPU Passthrough Setup for NixOS (with VR passthrough too!)](https://astrid.tech/2022/09/22/0/nixos-gpu-vfio/)
+		* [Passing Through a Nvidia RTX 2070 Super GPU](https://www.heiko-sieger.info/passing-through-a-nvidia-rtx-2070-super-gpu/)
+		* [Tips for Single GPU Passthrough on NixOS](https://www.reddit.com/r/VFIO/comments/p4kmxr/tips_for_single_gpu_passthrough_on_nixos/)
+		* [A GPU passthrough tutorial using libvirt and KVM on GNU/Linux](https://clayfreeman.github.io/gpu-passthrough/)
+		* [Beginner friendly guide to windows virtual machines with GPU passthrough on Ubuntu 18.04](https://mathiashueber.com/windows-virtual-machine-gpu-passthrough-ubuntu/)
+		* [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF)
+		* [PCI Passthrough](https://gist.github.com/techhazard/1be07805081a4d7a51c527e452b87b26)
 	* Caching
 		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
 		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
@@ -30,9 +38,6 @@
 		* Anbox - requires custom Linux kernel modules
 		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
 			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
-	* Windows + Gaming
-		* GPU passthrough
-		* NixOS gaming account
 	* open source - translation library or program - LLMs can fulfill this task and even correct mistakes
 	* research [Grammatical Framework](https://www.grammaticalframework.org/)
 		* [Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl) is the standard library for Grammatical Framework. It covers the morphology and basic syntax of over 30 languages
@@ -89,6 +94,7 @@
 	* Twitch account for Melody
 
 ✅ Done
+	✅ NixOS gaming account
 	✅ [Deno](https://deno.com/)
 	✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 	✅ [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
