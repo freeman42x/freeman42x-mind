@@ -18,6 +18,7 @@
 		* [Beginner friendly guide to windows virtual machines with GPU passthrough on Ubuntu 18.04](https://mathiashueber.com/windows-virtual-machine-gpu-passthrough-ubuntu/)
 		* [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF)
 		* [PCI Passthrough](https://gist.github.com/techhazard/1be07805081a4d7a51c527e452b87b26)
+		* [Taking my workflow to the next level - Graphics passthrough using VFIO](https://yoshihemzal.com/posts/vfio-writeup/)
 	* Caching
 		* [nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng)
 		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
