@@ -1,7 +1,9 @@
 ⚙ Priority Queue
 	* Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-		* btop
-		* autojump
+		* [btop](https://github.com/aristocratos/btop)
+		* [autojump](https://github.com/wting/autojump)
+		* [tmux](https://github.com/tmux/tmux)
+	* Volume normalization
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* File Sharing like Dropbox - Open Source: NextCloud, OwnCloud, SyncThing, etc.
 	* [Element alternatives](https://matrix.org/ecosystem/clients/)
@@ -72,6 +74,12 @@
 		* [Video Translate](https://labs.heygen.com/video-translate) from HeyGen Labs
 	* [Type algebra - Support infinite/recursive types #1](https://github.com/puffnfresh/type-algebra/issues/1)
 		* [add more tests](https://gist.github.com/freeman42x/cf96f63a5e874d77671842624eede9cd)
+	* GPU and hybrid compute
+		* AMD ROCm
+		* Nvidia CUDA
+		* Intel OneAPI - heterogeneous computing across CPUs, GPUs, and other accelerators
+		* OpenCL
+		* Vulkan
 	* Universal Translator
 	* Universal Translator pitch
 	* Fully automated trade investing software
