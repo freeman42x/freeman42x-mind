@@ -98,11 +98,13 @@
 	⚙ Multiplayer programming game like CodinGame: Clash of Code
 
 ⚙ AGI modules
-	⚙ Task prioritization engine and use it on these tasks
+	⚙ Decision  - task prioritization engine and use it on these tasks
 		* run prioritization automatically or on key shortcut
 		* build the dependency tree/plan leading to the goal
 		* prioritize but also expand, rewrite, generate, remove
-	⚙ Evidence / Fact Checking
+	⚙ Truth - Evidence / Fact Checking
+	⚙ Choices - freedoms listing
+	⚙ Ethics
 
 ✅ Done
 	✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
