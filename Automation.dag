@@ -1,9 +1,7 @@
 ⚙ Priority Queue
-	* Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-		✅ [zsh](https://www.zsh.org/)
-		✅ [btop](https://github.com/aristocratos/btop)
-		✅ [autojump](https://github.com/wting/autojump)
-		* [tmux](https://github.com/tmux/tmux)
+	* Tiling Window Manager
+		* Sway
+		* Compiz - Grid
 	* Volume normalization
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* File Sharing like Dropbox - Open Source: NextCloud, OwnCloud, SyncThing, etc.
@@ -108,6 +106,11 @@
 	⚙ Ethics
 
 ✅ Done
+	✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)
+		✅ [zsh](https://www.zsh.org/)
+		✅ [btop](https://github.com/aristocratos/btop)
+		✅ [autojump](https://github.com/wting/autojump)
+		✅ [tmux](https://github.com/tmux/tmux)
 	✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
 		✅ Test few features
