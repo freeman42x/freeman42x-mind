@@ -1,7 +1,8 @@
 ⚙ Priority Queue
 	* Add tools to try from [Brian McKenna](https://brianmckenna.org/blog/tools)
-		* [btop](https://github.com/aristocratos/btop)
-		* [autojump](https://github.com/wting/autojump)
+		✅ [zsh](https://www.zsh.org/)
+		✅ [btop](https://github.com/aristocratos/btop)
+		✅ [autojump](https://github.com/wting/autojump)
 		* [tmux](https://github.com/tmux/tmux)
 	* Volume normalization
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
