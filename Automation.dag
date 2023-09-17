@@ -28,7 +28,6 @@
 	* Wayland
 	* Extend screens using XRDP
 	* Remote Control
-	* Tablet NixOS Touch Enable
 	* VTuber camera
 	* Android emulator on NixOS
 		* Anbox - requires custom Linux kernel modules
@@ -77,7 +76,6 @@
 		* Vulkan
 	* Universal Translator
 	* Universal Translator pitch
-	* Evidence / Fact Checking AI module(s)
 
 🔬 Fun Priority Queue
 	* Mesh VPN - Headscale - open source - long term solution
@@ -90,7 +88,6 @@
 			* Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		* Twitch streaming integration for Spaces
 	* Twitch account for Melody
-
 
 ⚙ Projects
 	⚙ Fully automated trade investing software
@@ -106,11 +103,12 @@
 	⚙ Ethics
 
 ✅ Done
-	✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)
+	✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
 		✅ [zsh](https://www.zsh.org/)
 		✅ [btop](https://github.com/aristocratos/btop)
 		✅ [autojump](https://github.com/wting/autojump)
 		✅ [tmux](https://github.com/tmux/tmux)
+	✅Tablet NixOS Touch Enable
 	✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
 		✅ Install with nix
 		✅ Test few features
