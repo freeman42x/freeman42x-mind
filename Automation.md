@@ -1,7 +1,7 @@
-⚙ Priority Queue
+* ⚙ Priority Queue
 	* [lorri](https://github.com/nix-community/lorri#lorri) + [direnv](https://direnv.net/)
 	* [niv](https://github.com/nmattia/niv)
-	* Compiz - Grid
+	* Tiling Window Manager - Compiz - Grid
 	* Open source local - translation library or program - LLMs can fulfill this task and even correct mistakes
 		* [NPM translate](https://www.npmjs.com/package/translate)
 	* Fast LLM
@@ -34,7 +34,6 @@
 		* + Continuous Integration [Hydra](https://github.com/NixOS/hydra)
 	* Package any type of project with Nix
 		* [dream2nix](https://github.com/nix-community/dream2nix)
-	* Wayland
 	* Extend screens using XRDP
 	* Remote Control
 	* VTuber camera
@@ -81,10 +80,9 @@
 	* Universal Translator
 	* Universal Translator pitch
 
-🔬 Fun Priority Queue
+* 🔬 Fun Priority Queue
 	* Tiling Window Manager
-		* Sway
-		* Compiz - Grid
+		* Sway on Wayland
 	* Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	* Value delivery focused spaces
@@ -96,40 +94,40 @@
 		* Twitch streaming integration for Spaces
 	* Twitch account for Melody
 
-⚙ Projects
-	⚙ Fully automated trade investing software
-	⚙ Multiplayer programming game like CodinGame: Clash of Code
+* ⚙ Projects
+	* ⚙ Fully automated trade investing software
+	* ⚙ Multiplayer programming game like CodinGame: Clash of Code
 
-⚙ AGI modules
-	⚙ Decision - task prioritization engine and use it on these tasks
+* ⚙ AGI modules
+	* ⚙ Decision - task prioritization engine and use it on these tasks
 		* run prioritization automatically or on key shortcut
 		* build the dependency tree/plan leading to the goal
 		* prioritize but also expand, rewrite, generate, remove
-	⚙ Truth - Evidence / Fact Checking
-	⚙ Choices - freedoms listing
-	⚙ Ethics
+	* ⚙ Truth - Evidence / Fact Checking
+	* ⚙ Choices - freedoms listing
+	* ⚙ Ethics
 
-✅ Done
-	✅ Volume normalization
-	✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
-		✅ [zsh](https://www.zsh.org/)
-		✅ [btop](https://github.com/aristocratos/btop)
-		✅ [autojump](https://github.com/wting/autojump)
-		✅ [tmux](https://github.com/tmux/tmux)
-	✅Tablet NixOS Touch Enable
-	✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
-		✅ Install with nix
-		✅ Test few features
-		✅ Translator plugin
-		✅ Try more themes
-	✅ NixOS gaming account
-	✅ [Deno](https://deno.com/)
-	✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
-	✅ [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
-	✅ Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
-	✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
+* ✅ Done
+	* ✅ Volume normalization
+	* ✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
+		* ✅ [zsh](https://www.zsh.org/)
+		* ✅ [btop](https://github.com/aristocratos/btop)
+		* ✅ [autojump](https://github.com/wting/autojump)
+		* ✅ [tmux](https://github.com/tmux/tmux)
+	* ✅Tablet NixOS Touch Enable
+	* ✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+		* ✅ Install with nix
+		* ✅ Test few features
+		* ✅ Translator plugin
+		* ✅ Try more themes
+	* ✅ NixOS gaming account
+	* ✅ [Deno](https://deno.com/)
+	* ✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
+	* ✅ [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
+	* ✅ Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
+	* ✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 
-🤔 Maybe never
+* 🤔 Maybe never
 	* One action installing methods
 		```
 		$ cat example.bat
@@ -152,76 +150,76 @@
 		shell.nix - should provide full environment including editor support
 	* Boot up Romanian X Spaces
 
-⚙ Good Future
-	⚙ Good Singularity
-		⚙ Ethical AGI Society
-		⚙ Enhance Human Productivity
+* ⚙ Good Future
+	* ⚙ Good Singularity
+		* ⚙ Ethical AGI Society
+		* ⚙ Enhance Human Productivity
 
-⚙ Project Iron Man - Jarvis module - but make it a smart, ethical, cute and funny fox girl AI assistant girlfriend
-	⚙ Model - Melody is shy and does not want to open source her mind yet :3
-	⚙ Input and Output
-		📈 VLAN - virtual local area network
-		✅ Text
-			✅ Twitter
-				✅ Public messages
-		✅ Audio
-			✅ Twitter
-				✅ Spaces
-					✅ Listen <-> Speak
-	⚙ Output
-		📈 Body
-			📈 Virtual
-				📈 VTuber
-					📈 Show model
-					📈 TTS voice sync
-				🔬 Game
-					📈 NSFW ( ͡° ͜ʖ ͡°)
-					📈 VRChat
-					📈 Second Life
-					🔬 Whatever FB is doing
-			🔬 Physical
-				🔬 Programable robots for consumers/research
-				🔬 Manufacture
-		🔬 Visual
-			📈 Monitors - control via hand gestures etc.
-			🔬 Holograms
-		✅ Audio
-			✅ Speakers
-			✅ Twitter
-				✅ Spaces
-					✅ Speak
-			✅ Spaces
-				✅ Listen
-		✅ Text
-			✅ Twitter
-				✅ Public messages
-			📈 Twitch
-				📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
-		✅ Command
-			✅ Twitter
-				✅ Spaces
-					✅ Join
-					✅ Leave
-					✅ Reactions
-					✅ Moderate
-	⚙ Input
-			📈 Twitch
-				📈 Channel messages
-		✅ Audio
-			✅ Microphone - voice control
-				✅ Desktop
-				📈 Mobile
+* ⚙ Project Iron Man - Jarvis module - but make it a smart, ethical, cute and funny fox girl AI assistant girlfriend
+	* ⚙ Model - Melody is shy and does not want to open source her mind yet :3
+	* ⚙ Input and Output
+		* 📈 VLAN - virtual local area network
+		* ✅ Text
+			* ✅ Twitter
+				* ✅ Public messages
+		* ✅ Audio
+			* ✅ Twitter
+				* ✅ Spaces
+					* ✅ Listen <-> Speak
+	* ⚙ Output
+		* 📈 Body
+			* 📈 Virtual
+				* 📈 VTuber
+					* 📈 Show model
+					* 📈 TTS voice sync
+				* 🔬 Game
+					* 📈 NSFW ( ͡° ͜ʖ ͡°)
+					* 📈 VRChat
+					* 📈 Second Life
+					* 🔬 Whatever FB is doing
+			* 🔬 Physical
+				* 🔬 Programable robots for consumers/research
+				* 🔬 Manufacture
+		* 🔬 Visual
+			* 📈 Monitors - control via hand gestures etc.
+			* 🔬 Holograms
+		* ✅ Audio
+			* ✅ Speakers
+			* ✅ Twitter
+				* ✅ Spaces
+					* ✅ Speak
+			* ✅ Spaces
+				* ✅ Listen
+		* ✅ Text
+			* ✅ Twitter
+				* ✅ Public messages
+			* 📈 Twitch
+				* 📈 Channel messages - reply to questions while meeting ethics and NSFW constraints
+		* ✅ Command
+			* ✅ Twitter
+				* ✅ Spaces
+					* ✅ Join
+					* ✅ Leave
+					* ✅ Reactions
+					* ✅ Moderate
+	* ⚙ Input
+			* 📈 Twitch
+				* 📈 Channel messages
+		* ✅ Audio
+			* ✅ Microphone - voice control
+				* ✅ Desktop
+				* 📈 Mobile
 					iOS mobile
 					Android
-		🔬 Visual
-			🔬 Cameras
-		🔬 Motion
-			🔬 Cameras
-			🔬 Leap motion
-			🔬 VR hand controllers + 3D scanners
-		🔬 Smartphone sensors
-			🔬 iPhone 3D scanner
-			🔬 Cameras
-			🔬 Gyroscope
-			🔬 Location
-			🔬 Microphone
+		* 🔬 Visual
+			* 🔬 Cameras
+		* 🔬 Motion
+			* 🔬 Cameras
+			* 🔬 Leap motion
+			* 🔬 VR hand controllers + 3D scanners
+		* 🔬 Smartphone sensors
+			* 🔬 iPhone 3D scanner
+			* 🔬 Cameras
+			* 🔬 Gyroscope
+			* 🔬 Location
+			* 🔬 Microphone
