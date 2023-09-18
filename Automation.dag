@@ -1,5 +1,6 @@
 ⚙ Priority Queue
-	* lorri + direnv
+	* [lorri](https://github.com/nix-community/lorri#lorri) + [direnv](https://direnv.net/)
+	* [niv](https://github.com/nmattia/niv)
 	* Compiz - Grid
 	* Open source local - translation library or program - LLMs can fulfill this task and even correct mistakes
 		* [NPM translate](https://www.npmjs.com/package/translate)
@@ -70,6 +71,7 @@
 		* [Video Translate](https://labs.heygen.com/video-translate) from HeyGen Labs
 	* [Type algebra - Support infinite/recursive types #1](https://github.com/puffnfresh/type-algebra/issues/1)
 		* [add more tests](https://gist.github.com/freeman42x/cf96f63a5e874d77671842624eede9cd)
+		* annotate / annotateShow to display proof search during tests?
 	* GPU and hybrid compute
 		* AMD ROCm
 		* Nvidia CUDA
