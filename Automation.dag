@@ -1,4 +1,6 @@
 ⚙ Priority Queue
+	* lorri + direnv
+	* Compiz - Grid
 	* Open source local - translation library or program - LLMs can fulfill this task and even correct mistakes
 		* [NPM translate](https://www.npmjs.com/package/translate)
 	* Fast LLM
@@ -8,6 +10,7 @@
 		* [LLaMA Node](https://github.com/Atome-FE/llama-node)
 	* Editor LLM integration
 		* Phind
+		* Copilot
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* File Sharing like Dropbox - Open Source: NextCloud, OwnCloud, SyncThing, etc.
 	* [Element alternatives](https://matrix.org/ecosystem/clients/)
