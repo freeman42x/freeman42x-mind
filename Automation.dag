@@ -1,8 +1,13 @@
 ⚙ Priority Queue
-	* Tiling Window Manager
-		* Sway
-		* Compiz - Grid
-	* Volume normalization
+	* Open source local - translation library or program - LLMs can fulfill this task and even correct mistakes
+		* [NPM translate](https://www.npmjs.com/package/translate)
+	* Fast LLM
+		* [LangChain.js](https://github.com/langchain-ai/langchainjs)
+		https://github.com/Atome-FE/llama-node
+		* [vLLM](https://github.com/vllm-project/vllm)
+		* [LLaMA Node](https://github.com/Atome-FE/llama-node)
+	* Editor LLM integration
+		* Phind
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* File Sharing like Dropbox - Open Source: NextCloud, OwnCloud, SyncThing, etc.
 	* [Element alternatives](https://matrix.org/ecosystem/clients/)
@@ -33,7 +38,6 @@
 		* Anbox - requires custom Linux kernel modules
 		* [WayDroid](https://waydro.id/) - requires Wayland, and Wayland is broken
 			* [NixOS wiki](https://nixos.wiki/wiki/WayDroid)
-	* Open source - translation library or program - LLMs can fulfill this task and even correct mistakes
 	* Research [Grammatical Framework](https://www.grammaticalframework.org/)
 		* [Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl) is the standard library for Grammatical Framework. It covers the morphology and basic syntax of over 30 languages
 		* [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia)
@@ -54,11 +58,6 @@
 		* Install open source file sync server on it: NextCloud, OwnCloud, SyncThing, etc.
 	* Package any type of project with Nix
 		* [Dream2Nix](https://github.com/nix-community/dream2nix)
-	* Fast LLM
-		* [LangChain.js](https://github.com/langchain-ai/langchainjs)
-		https://github.com/Atome-FE/llama-node
-		* [vLLM](https://github.com/vllm-project/vllm)
-		* [LLaMA Node](https://github.com/Atome-FE/llama-node)
 	* Speech
 		* [Coqui TTS](https://github.com/coqui-ai/TTS)
 		* [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
@@ -78,6 +77,9 @@
 	* Universal Translator pitch
 
 🔬 Fun Priority Queue
+	* Tiling Window Manager
+		* Sway
+		* Compiz - Grid
 	* Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	* Value delivery focused spaces
@@ -94,7 +96,7 @@
 	⚙ Multiplayer programming game like CodinGame: Clash of Code
 
 ⚙ AGI modules
-	⚙ Decision  - task prioritization engine and use it on these tasks
+	⚙ Decision - task prioritization engine and use it on these tasks
 		* run prioritization automatically or on key shortcut
 		* build the dependency tree/plan leading to the goal
 		* prioritize but also expand, rewrite, generate, remove
@@ -103,6 +105,7 @@
 	⚙ Ethics
 
 ✅ Done
+	✅ Volume normalization
 	✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
 		✅ [zsh](https://www.zsh.org/)
 		✅ [btop](https://github.com/aristocratos/btop)
