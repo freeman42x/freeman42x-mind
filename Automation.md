@@ -1,6 +1,4 @@
 * ⚙ Priority Queue
-	* [lorri](https://github.com/nix-community/lorri#lorri) + [direnv](https://direnv.net/)
-	* [niv](https://github.com/nmattia/niv)
 	* Tiling Window Manager - Compiz - Grid
 	* Open source local - translation library or program - LLMs can fulfill this task and even correct mistakes
 		* [NPM translate](https://www.npmjs.com/package/translate)
@@ -68,35 +66,36 @@
 		* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 	* Voice Cloning
 		* [Video Translate](https://labs.heygen.com/video-translate) from HeyGen Labs
-	* [Type algebra - Support infinite/recursive types #1](https://github.com/puffnfresh/type-algebra/issues/1)
-		* [add more tests](https://gist.github.com/freeman42x/cf96f63a5e874d77671842624eede9cd)
-		* annotate / annotateShow to display proof search during tests?
+	* [niv](https://github.com/nmattia/niv)
+	* Universal Translator
+	* Universal Translator pitch
+
+* 🔬 Diffuse Mode Priority Queue
 	* GPU and hybrid compute
 		* AMD ROCm
 		* Nvidia CUDA
 		* Intel OneAPI - heterogeneous computing across CPUs, GPUs, and other accelerators
 		* OpenCL
 		* Vulkan
-	* Universal Translator
-	* Universal Translator pitch
-
-* 🔬 Fun Priority Queue
 	* Tiling Window Manager
 		* Sway on Wayland
 	* Mesh VPN - Headscale - open source - long term solution
  https://en.wikipedia.org/wiki/Jassim_bin_Hamad_bin_Khalifa_Al_Thani
 	* Value delivery focused spaces
+	* Twitch account for Melody
+	* [Type algebra - Support infinite/recursive types #1](https://github.com/puffnfresh/type-algebra/issues/1)
+		* [add more tests](https://gist.github.com/freeman42x/cf96f63a5e874d77671842624eede9cd)
+		* annotate / annotateShow to display proof search during tests?
+
+* ⚙ Projects
+	* Fully automated trade investing software
+	* Multiplayer programming game like CodinGame: Clash of Code
 	* Identity - Login standard
 	* Twitter Enhancer
 		* Fact Checking
 		* Focus
 			* Disable Twitter for a period of time then small break when you can use twitter -> pomodoro technique basically
 		* Twitch streaming integration for Spaces
-	* Twitch account for Melody
-
-* ⚙ Projects
-	* ⚙ Fully automated trade investing software
-	* ⚙ Multiplayer programming game like CodinGame: Clash of Code
 
 * ⚙ AGI modules
 	* ⚙ Decision - task prioritization engine and use it on these tasks
@@ -108,24 +107,27 @@
 	* ⚙ Ethics
 
 * ✅ Done
-	* ✅ Volume normalization
-	* ✅ Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
-		* ✅ [zsh](https://www.zsh.org/)
-		* ✅ [btop](https://github.com/aristocratos/btop)
-		* ✅ [autojump](https://github.com/wting/autojump)
-		* ✅ [tmux](https://github.com/tmux/tmux)
-	* ✅Tablet NixOS Touch Enable
-	* ✅ [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
-		* ✅ Install with nix
-		* ✅ Test few features
-		* ✅ Translator plugin
-		* ✅ Try more themes
-	* ✅ NixOS gaming account
-	* ✅ [Deno](https://deno.com/)
-	* ✅ [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
-	* ✅ [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
-	* ✅ Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
-	* ✅ [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
+	* Phind VScode extension
+	* [lorri](https://github.com/nix-community/lorri#lorri)
+	* [direnv](https://direnv.net/)
+	* Volume normalization
+	* Try tools from [Brian McKenna] blog post (https://brianmckenna.org/blog/tools)+
+		* [zsh](https://www.zsh.org/)
+		* [btop](https://github.com/aristocratos/btop)
+		* [autojump](https://github.com/wting/autojump)
+		* [tmux](https://github.com/tmux/tmux)
+	* Tablet NixOS Touch Enable
+	* [Better Discord](https://github.com/BetterDiscord/BetterDiscord)
+		* Install with nix
+		* Test few features
+		* Translator plugin
+		* Try more themes
+	* NixOS gaming account
+	* [Deno](https://deno.com/)
+	* [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
+	* [Text generation web UI - extension - OpenAI API](https://github.com/oobabooga/text-generation-webui/tree/main/extensions/openai)
+	* Mesh VPN - [Tailscale](https://tailscale.com/) - closed source - set up for testing and learning features
+	* [kitty](https://sw.kovidgoyal.net/kitty/) - GPU based terminal emulator
 
 * 🤔 Maybe never
 	* One action installing methods
