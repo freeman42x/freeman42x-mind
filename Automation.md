@@ -8,7 +8,6 @@
 		* [vLLM](https://github.com/vllm-project/vllm)
 		* [LLaMA Node](https://github.com/Atome-FE/llama-node)
 	* Editor LLM integration
-		* Phind
 		* Copilot
 	* [Ultimate software list](https://github.com/freeman42x/ultimate-software-list)
 	* File Sharing like Dropbox - Open Source: NextCloud, OwnCloud, SyncThing, etc.
